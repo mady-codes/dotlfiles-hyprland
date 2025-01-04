@@ -8,7 +8,7 @@ I use [Arch](https://archlinux.org) BTW.
 
 </h2>
 
-<hr width="100%" size="2" color="white" noshade>
+
 
 <h3 align="center">
 	 Hyprlock
